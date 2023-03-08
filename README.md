@@ -1,2 +1,2 @@
 # python3
-python3 basic tutorial
+python3 basic tutorial.
