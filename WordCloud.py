@@ -1,8 +1,8 @@
+#!/usr/bin/python3
+
 from wordcloud import WordCloud
-
 import jieba
-
-import numpy
+import numpy as np
 
 import PIL.Image as Image
 
